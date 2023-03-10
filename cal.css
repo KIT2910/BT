@@ -1,0 +1,26 @@
+.cal {
+    border: 1px solid black;
+    width: 200px;
+    height: 300px;
+}
+#result {
+    height: 50px;
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+.btn {
+    height: 30px;
+    width: 35px;
+    background-color: #26cbf5;
+}
+
+.cal_keys {
+    margin: 20px;
+    
+}
+.operation{
+    margin: 20px;
+}
+.keys {
+    margin: 20px;
+}
